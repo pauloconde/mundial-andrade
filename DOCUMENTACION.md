@@ -1,4 +1,4 @@
-# 🤖 Documentación del Proyecto: PWA Mundial 2026
+# 🤖 Documentación del Proyecto: PWA Mundial 2026 ANDRADE
 
 Este proyecto es una Progressive Web App (PWA) diseñada para el seguimiento en tiempo real del **Mundial de la FIFA 2026**. Ha sido construida con un enfoque "Mobile-First" y una arquitectura preparada para la evolución de los datos durante el torneo.
 
